@@ -1,2 +1,2 @@
-# tactileSensor
+# TactileSensor
 tactile sensor for object identification
